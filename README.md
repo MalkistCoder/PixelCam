@@ -4,6 +4,8 @@ Simple and fast full map downloader for [PixelLand](https://pixel.land/).
 
 ## Instructions
 
+Before you do anything, install [Python](https://python.org/) and PIP.
+
 First, clone the repository or download the `.zip` file.
 
 Then, open the folder in Terminal/Command Prompt/PowerShell, and run these commands.
