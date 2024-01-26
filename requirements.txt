@@ -1,7 +1,10 @@
-certifi==2023.7.22
-charset-normalizer==3.1.0
+certifi==2023.11.17
+charset-normalizer==3.3.2
 colorama==0.4.6
-idna==3.4
-Pillow==10.0.1
+idna==3.6
+pillow==10.2.0
+progressbar2==4.3.2
+python-utils==3.8.2
 requests==2.31.0
-urllib3>=2.0.7
+typing_extensions==4.9.0
+urllib3==2.1.0
